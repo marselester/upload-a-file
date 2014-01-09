@@ -1,0 +1,3 @@
+*.pyc
+.DS_Store
+/uploader/settings/local.py
